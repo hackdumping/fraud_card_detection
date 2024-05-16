@@ -2,3 +2,4 @@ joblib==1.3.2
 numpy==1.24.2
 streamlit==1.34.0
 streamlit-webrtc==0.47.6
+sklearn==0.0.post10
